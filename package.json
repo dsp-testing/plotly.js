@@ -115,7 +115,7 @@
     "probe-image-size": "^7.2.1",
     "regl": "^1.6.1",
     "regl-error2d": "^2.0.11",
-    "regl-line2d": "^3.1.0",
+    "regl-line2d": "git://github.com/gl-vis/regl-line2d.git#fd59098bd2a5ee9e2e5f7f2a01fb8b27ee58d173",
     "regl-scatter2d": "^3.2.3",
     "regl-splom": "^1.0.14",
     "right-now": "^1.0.0",
